@@ -1,2 +1,0 @@
-# JSFibonacci
-JS Fibonacci Implementations 
